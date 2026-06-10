@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By UNKNOWN OFFICIAL",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Your-Own-Bot",
+    "start": "pm2 start index.js --deep-monitoring --attach --name UNKNOWN_BOTZ",
     "stop": "pm2 stop UNKNOWN_BOTZ",
     "restart": "pm2 restart UNKNOWN_BOTZ"
   },
